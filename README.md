@@ -22,9 +22,3 @@ Paper Citation
 }`
 
 
-The algorithm performs sorting and matching by swapping elements for traceroute navigation based on key pattern regression.
-
-The implementation contains two processes of **iteration** and **extraction** on each virtual list of elements demonstrated as follow:
-
-* `delta1`:`(L) is the number of each virtual list value in a giving log file`.
-* `delta2`:`Breaking each value into L/2 of vlist in a giving log file`.
