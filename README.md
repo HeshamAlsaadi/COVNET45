@@ -3,7 +3,7 @@ Artificial intelligence tool for the study of COVID-19 microdroplet spread acros
 
 Extra Paper Materials Published on medRxiv - Yale
 =========================
-
+![alt text](https://github.com/HeshamAlsaadi/COVNET45/blob/main/Research%20Images/medrxiv_internal_logo.png)
 
 Paper Links
 =========================
