@@ -11,6 +11,10 @@ Paper Links
 * `doi`:`https://doi.org/10.1101/2022.06.01.22275872`
 * `Copyright`:`The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY 4.0 International license.`
 
+COVNET45 Tool
+=========================
+![alt text](https://github.com/HeshamAlsaadi/COVNET45/blob/main/Research%20Images/Fig11.png)
+
 Paper Citation
 =========================
 * `BibTeX`:`@article{alsaadi2022artificial,
